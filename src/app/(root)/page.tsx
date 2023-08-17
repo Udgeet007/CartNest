@@ -5,7 +5,7 @@ export default function Home() {
     <>
       <p>Hello Champ! Are you ready?</p>
       <div className="p-4">
-        <Button>Click me</Button>
+        <Button>Click me hello</Button>
       </div>
     </>
   );
